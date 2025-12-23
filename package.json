@@ -1,0 +1,12 @@
+{
+    "name": "emotional-companion-app",
+    "version": "1.0.0",
+    "description": "AI-powered emotional companion and study support app for students",
+    "main": "index.html",
+    "scripts": {
+      "start": "npx serve ."
+    },
+    "keywords": ["emotional-support", "mental-health", "student-wellness", "ai-companion"],
+    "author": "Your Name",
+    "license": "MIT"
+  }
